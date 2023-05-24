@@ -1,6 +1,6 @@
 Events Ticket App
 
-The Ticket  App allows users to easily browse and see available tickets in their areafor upcoming events. It offers the following features:
+The Ticket  App allows users to easily browse and see available tickets in their area for upcoming events. It offers the following features:
 
 1. Ticket Display: The app showcases a collection of tickets with detailed information such as title, city, date and time and weather.
 
@@ -14,4 +14,4 @@ The Ticket  App allows users to easily browse and see available tickets in their
 
 6. Responsive Design: The app is designed to adapt and provide an optimal viewing experience on various screen sizes and devices.
 
-Feel free to explore the App, browse available tickets!
+Feel free to explore the App and browse available tickets!
